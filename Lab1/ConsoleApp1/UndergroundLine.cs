@@ -26,7 +26,6 @@ namespace ConsoleApp1
         {
             this.Name = "default";
             this.Stations = new List<Station>();
-            this.Stations.Add(new Station());
             this.SomeProp = 0;
         }
 
